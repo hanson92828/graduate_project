@@ -1,3 +1,3 @@
 此為畢業專題計畫，主要施作方式是以行動端連接電腦上的伺服端，並傳送影片以判斷影片是否含有特定字詞，用以決定該影片是否需要保留。
 
-其中，camserver是我們行動端的app，而myserver是電腦上的server。
+其中，camserver是我們行動端的app，而myserver.py是電腦上的server。
